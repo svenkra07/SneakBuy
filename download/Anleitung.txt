@@ -1,0 +1,13 @@
+SneakBuy - Sneaker-Shop (Schulprojekt)
+
+Starten
+- Voraussetzung: Java 8 oder neuer ist installiert (https://adoptium.net).
+- SneakBuy.jar doppelklicken. Alternativ in der Konsole: java -jar SneakBuy.jar
+- Die Datenbank SneakBuy.db wird beim ersten Benutzen automatisch im selben Ordner angelegt.
+
+Ausprobieren
+1. Oben rechts auf "-Owner-" klicken, Passwort: 1234
+   -> Hier kann man Schuhe anlegen, das Lager ansehen, Kunden verwalten und Bestellungen abrufen.
+2. Zurück zum Login, links einen Kunden registrieren und rechts damit einloggen.
+3. Schuhe suchen, per Doppelklick in den Warenkorb legen und über den Warenkorb-Button kaufen.
+4. Mit der Bestellnummer kann man die Bestellung wieder aufrufen.
